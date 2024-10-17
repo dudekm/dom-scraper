@@ -1,4 +1,4 @@
-# Puppeteer DOM Scraper
+# DOM Scraper
 
 This project fetches the DOM of multiple URLs using Puppeteer, saves the content as HTML files, and processes several URLs concurrently. You can configure how many URLs are processed at the same time by passing a concurrency parameter.
 
@@ -12,13 +12,13 @@ This project fetches the DOM of multiple URLs using Puppeteer, saves the content
 1. **Clone the repository** (or download the project files):
 
     ```bash
-    git clone https://github.com/your-username/puppeteer-dom-scraper.git
+    git clone https://github.com/dudekm/dom-scraper.git
     ```
 
 2. **Navigate to the project directory**:
 
     ```bash
-    cd puppeteer-dom-scraper
+    cd dom-scraper
     ```
 
 3. **Install the required Node.js packages**:
